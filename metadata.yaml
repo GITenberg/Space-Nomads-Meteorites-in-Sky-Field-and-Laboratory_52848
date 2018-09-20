@@ -1,0 +1,30 @@
+_repo: Space-Nomads-Meteorites-in-Sky-Field-and-Laboratory_52848
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: LaPaz, Lincoln
+    birthdate: 1897
+    deathdate: 1985
+    gutenberg_agent_id: '47079'
+    url: http://www.gutenberg.org/2009/agents/47079
+    wikipedia: https://en.wikipedia.org/wiki/Lincoln_LaPaz
+  - agent_name: LaPaz, Jean
+    alias: LaPaz, Leota Jean
+    gutenberg_agent_id: '47080'
+    url: http://www.gutenberg.org/2009/agents/47080
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52848'
+  lccn: '61066051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meteorites'
+- !lcc 'QB'
+- GITenberg
+title: 'Space Nomads: Meteorites in Sky, Field, and Laboratory'
+url: http://www.gutenberg.org/ebooks/52848
